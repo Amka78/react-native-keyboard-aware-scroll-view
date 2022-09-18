@@ -40,7 +40,8 @@
         "react-native-iphone-x-helper": "^1.0.3"
     },
     "peerDependencies": {
-        "react-native": ">=0.48.4"
+        "react-native": ">=0.48.4",
+        "react-native-gesture-handler": "~2.2.1"
     },
     "devDependencies": {
         "babel-eslint": "^10.0.2",
